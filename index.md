@@ -3,12 +3,10 @@ layout: home
 title: "Home"
 ---
 
-# Hi! 
-
 <style>
 .index-container {
   display: flex;
-  align-items: center;
+  align-items: flex-start;  /* Align items to the top */
   gap: 20px;
 }
 
@@ -16,12 +14,14 @@ title: "Home"
   width: 150px; /* Adjust size */
   border-radius: 50%; /* Circular shape */
 }
+
+
 </style>
 
 <div class="index-container">
   <img src="assets/images/profile.jpg" alt="Profile Photo">
   <div>
-    <p>I am a Master's student specializing in <strong>Data Engineering and Analytics</strong> at the <strong>Technical University of Munich</strong>.</p>
+    <p>Hi! I am a Master's student specializing in <strong>Data Engineering and Analytics</strong> at the <strong>Technical University of Munich</strong>.</p>
     <p>I am currently working on <strong>leveraging LLMs to enhance personalization in tourism recommender systems</strong>  
     at the <strong>Chair of Connected Mobility</strong>.</p>
 
@@ -39,9 +39,6 @@ title: "Home"
     </ul>
 
     <p>For more details, check out my <a href="publications.html"><strong>Publications</strong></a>.</p>
-    <p>Feel free to explore my <a href="publications.html"><strong>Publications</strong></a> or <a href="assets/resume.pdf"><strong>Download Resume</strong></a>.</p>
-
-    <p>📧 You can reach out to me at: <strong>adithi[dot]satish[at]tum[dot]de</strong></p>
+    <p>Feel free to <a href="assets/resume.pdf"><strong>Download my Resume</strong></a>.</p>
   </div>
 </div>
-

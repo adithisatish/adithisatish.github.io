@@ -10,6 +10,8 @@ theme: minima
 # Social links (optional)
 twitter_username: spillingaditea
 github_username: adithisatish
+linkedin_username: adithisatish
+email: adithi.satish@tum.de
 
 # Build settings
 plugins:
