@@ -23,7 +23,7 @@ title: "Home"
   <div>
     <p>Hi! I am a Master's student specializing in <strong>Data Engineering and Analytics</strong> at the <strong>Technical University of Munich</strong>.</p>
     <p>I am currently working on <strong>leveraging LLMs to enhance personalization in tourism recommender systems</strong>  
-    at the <strong>Chair of Connected Mobility</strong>.</p>
+    at the <a href="https://www.ce.cit.tum.de/cm/home/"><strong>Chair of Connected Mobility</strong>.</p>
 
     <h3>Education</h3>
     <ul>
