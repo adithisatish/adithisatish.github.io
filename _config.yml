@@ -1,0 +1,22 @@
+title: "Adithi Satish's Website"
+author: "Adithi Satish"
+description: "Welcome to my GitHub Pages site!"
+baseurl: "" # Leave blank for user GitHub Pages
+url: "https://adithisatish.github.io" # Your GitHub Pages URL
+
+# Theme selection
+theme: minima
+
+# Social links (optional)
+twitter_username: spillingaditea
+github_username: adithisatish
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation (optional)
+header_pages:
+  - about.md
+  - projects.md
