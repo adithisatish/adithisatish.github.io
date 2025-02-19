@@ -4,9 +4,7 @@ title: "About Me"
 permalink: /about/
 ---
 
-## About Me
-
-I am a Master's student specializing in Data Engineering and Analytics at the Technical University of Munich. I am currently working on leveraging LLMs to enhance personalization in tourism recommender systems, at the Chair of Connected Mobility .
+I am a Master's student specializing in Data Engineering and Analytics at the Technical University of Munich. I am currently working on leveraging LLMs to enhance personalization in tourism recommender systems, at the Chair of Connected Mobility. 
 
 ### Education
 - **M.Sc. Data Engineering and Analytics**, [Technical University of Munich], [2022-2025]

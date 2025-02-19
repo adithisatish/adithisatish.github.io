@@ -3,10 +3,10 @@ layout: home
 title: "Adithi Satish"
 ---
 
-# Welcome to My Academic Profile
+# Hi!
 
-I am a Master's student with a keen interest in [your research area, e.g., Machine Learning, Data Science]. My research focuses on [brief description of research interests]. 
+I am Adithi, a Master's student at TUM, pursuing my degree in Data Engineering and Analytics. 
 
-Feel free to explore my **[Publications](publications.html)** or download my **[Resume](resume.pdf)**.
+Feel free to explore my **[Publications](publications.html)** or download my **[Resume](assets/resume.pdf)**.
 
-📧 Contact me at: [your email address]
+📧 Feel free to reach out to me at: adithi[dot]satish[at]tum[dot]de
