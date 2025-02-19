@@ -21,23 +21,27 @@ title: "Home"
 <div class="index-container">
   <img src="assets/images/profile.jpg" alt="Profile Photo">
   <div>
-    I am a Master's student specializing in **Data Engineering and Analytics** at the **Technical University of Munich**.  
-    I am currently working on **leveraging LLMs to enhance personalization in tourism recommender systems**  
-    at the **Chair of Connected Mobility**.  
+    <p>I am a Master's student specializing in <strong>Data Engineering and Analytics</strong> at the <strong>Technical University of Munich</strong>.</p>
+    <p>I am currently working on <strong>leveraging LLMs to enhance personalization in tourism recommender systems</strong>  
+    at the <strong>Chair of Connected Mobility</strong>.</p>
 
-    ### Education
-    - 🎓 **M.Sc. Data Engineering and Analytics**, [Technical University of Munich], [2022-2025]  
-    - 🎓 **B.Tech. Computer Science and Engineering**, [PES University], [2018-2022]  
+    <h3>Education</h3>
+    <ul>
+      <li>🎓 <strong>M.Sc. Data Engineering and Analytics</strong>, Technical University of Munich, 2022-2025</li>
+      <li>🎓 <strong>B.Tech. Computer Science and Engineering</strong>, PES University, 2018-2022</li>
+    </ul>
 
-    ### Research Interests
-    - 🔍 Large Language Models  
-    - ⚖ Ethics in NLP  
-    - 📜 Legal NLP  
+    <h3>Research Interests</h3>
+    <ul>
+      <li>🔍 Large Language Models</li>
+      <li>⚖ Ethics in NLP</li>
+      <li>📜 Legal NLP</li>
+    </ul>
 
-    For more details, check out my **[Publications](publications.html)**.  
-    Feel free to explore my **[Publications](publications.html)** or **[Download Resume](assets/resume.pdf)**.  
+    <p>For more details, check out my <a href="publications.html"><strong>Publications</strong></a>.</p>
+    <p>Feel free to explore my <a href="publications.html"><strong>Publications</strong></a> or <a href="assets/resume.pdf"><strong>Download Resume</strong></a>.</p>
 
-    📧 You can reach out to me at: **adithi[dot]satish[at]tum[dot]de**
+    <p>📧 You can reach out to me at: <strong>adithi[dot]satish[at]tum[dot]de</strong></p>
   </div>
 </div>
 
