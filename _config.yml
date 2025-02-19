@@ -1,6 +1,6 @@
 # title: "Adithi Satish's Website"
 author: "Adithi Satish"
-description: "Welcome to my GitHub Pages site!"
+description: "Profile"
 baseurl: "" # Leave blank for user GitHub Pages
 url: "https://adithisatish.github.io" # Your GitHub Pages URL
 
@@ -17,5 +17,4 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  - about.md
   - publications.md
