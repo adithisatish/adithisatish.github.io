@@ -23,13 +23,13 @@ repository               : "adithisatish/adithisatish.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Adithi"
+  name             : "Adithi Satish"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "NLP Enthusiast"
   location         : "Munich, Germany"
-  employer         : "Red Brick University"
+  employer         : "Technical University of Munich"
   uri              : # URL
-  email            : "adithi [dot] satish [at] tum [dot] de" 
+  email            : "adithi.satish@tum.de" 
 
   # Academic websites
   academia         : # URL
@@ -309,6 +309,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-scholar
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -318,6 +319,13 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+
+scholar:
+  style: apa        # or another style like ieee, acm
+  source: _data/publications.bib
+  bibliography_template: publications.html
+  sort_by: year
+  sort_order: descending
 
 
 # Archives
