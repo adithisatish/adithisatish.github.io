@@ -309,7 +309,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-  # - jekyll-scholar
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -319,13 +318,6 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-
-# scholar:
-#   style: apa        # or another style like ieee, acm
-#   source: _data/publications.bib
-#   bibliography_template: publications.html
-#   sort_by: year
-#   sort_order: descending
 
 
 # Archives
