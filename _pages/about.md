@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "About Me"
+title: "Hi, I'm Adithi!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I am Adithi, a Master's student specializing in **Data Engineering and Analytics** at the **Technical University of Munich**.
+I'm a Master's student specializing in **Data Engineering and Analytics** at the **Technical University of Munich**.
 
-I am currently working on l**everaging LLMs to balance diversity and personalization in tourism recommender systems** at the [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/) at TUM.
+I am currently working on **leveraging LLMs to balance diversity, sustainability and personalization in tourism recommender systems** at the [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/) at TUM. For my master thesis, I explored how LLMs can be used to address challenges like data scarcity and popularity bias in these recommender systems, which you can also view [here.](../files/thesis.pdf){:target="_blank"}
 
 In addition to my studies, I also work in the Environmental Protection Data Analytics team at **Siemens AG**, where I use NLP to analyze and identify substances of concern from product and chemical descriptions.
 
